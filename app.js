@@ -6,7 +6,6 @@ let resultadoAmigoSecreto = document.querySelector("#resultado");
 let indiceAleatorio = 0;
 let amigo = "";
 
-
 function agregarAmigo(){
     amigo = limpiarEspacios(inputAmigo.value);
 
